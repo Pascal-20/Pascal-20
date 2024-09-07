@@ -1,8 +1,8 @@
 # Salut 👋
-## Sur moi
+## A propos de moi
 Bonjour, je suis Pascal , Data Analyst basé à Nantes, France. Bienvenue sur mon profil GitHub. Permettez-moi de me présenter brièvement.
 
-Je suis un analyste de données debutant avec un mélange unique. En effet, j'ai une formation de linguistique specialisé en phonetique, j'apporte une approche pédagogique à mon travail d'analyse de données. J'ai une capacité naturelle à simplifier des concepts complexes et à les communiquer efficacement à mon public. 🎓
+Je suis un analyste de données debutant avec un mélange unique. En effet, j'ai une formation de linguiste specialisé en phonetique, ce qui me permet d'avoir une approche pédagogique pour mon travail d'analyse de données. J'ai une capacité naturelle à simplifier des concepts complexes et à les communiquer efficacement à mon public. 🎓
 
 Ma véritable passion réside dans la narration à l'aide de données. Je crois que les données ont le pouvoir de raconter des histoires convaincantes, et j'aime beaucoup tisser ces récits à travers des visualisations perspicaces et des explications claires. Ma maîtrise d'Excel, SQL, Power BI, et Python me permet d'explorer en profondeur des ensembles de données complexes, en extrayant des informations précieuses qui conduisent à des décisions commerciales éclairées. 💡
 
@@ -14,33 +14,26 @@ N'hésitez pas à me contacter par e-mail à pascal.yapo@orange.fr ou à me rejo
 ### Compétences techniques
 Voici une liste de mes compétences techniques :
 
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Logo Python" width="120" align="left"/>
-<br clear="left"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Logo SQL" width="80" align="left"/>
-<br clear="left"/>
-<br clear="left"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Logo Power BI" width="50" align="left"/>
-<br clear="left"/>
-<br clear="left"/>
-<img src="https://www.r-project.org/Rlogo.png" alt="Logo R" width="50" align="left"/>
-<br clear="left"/>
-<br clear="left"/>
-<img src="https://github.com/user-attachments/assets/9695d0ac-b491-4cea-b506-fe4f936c5299" alt="Logo Excel" width="40"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Compétences générales
 Voici une liste de mes compétences non techniques en tant qu'analyste de données :
 
 ![Capture d’écran 2024-09-07 132743](https://github.com/user-attachments/assets/873b5a47-f56a-4f5a-9b30-99bd6064002a)
 
-## Contact
+## Contacts
 Vous pouvez me contacter via les canaux suivants :
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pascal-yapo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pascal-yapo/" height="30" width="30" /></a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pascvl__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pascal-yapo/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cpascal2) 
 </p>
 <br clear="left"/>
 <br clear="left"/>
 
-<img alt= "my stats" align ="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=pascal-20"/>
+<img alt= "my stats" align ="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=pascal-20&theme=cobalt"/>
+<img alt = "top lang" align ="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal-20&layout=compact&theme=cobalt"/>
 
-<img alt = "top lang" align ="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal-20&layout=compact"/>
+![](https://github-profile-trophy.vercel.app/?username=Pascal-20&theme=onedark&frame=false&no-bg=false&cobalt-w=4)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
