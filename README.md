@@ -19,7 +19,8 @@ Voici une liste de mes compétences techniques :
 ### Compétences générales
 Voici une liste de mes compétences non techniques en tant qu'analyste de données :
 
-![Capture d’écran 2024-09-07 132743](https://github.com/user-attachments/assets/873b5a47-f56a-4f5a-9b30-99bd6064002a)
+![Static Badge](https://img.shields.io/badge/Communication-green) ![Static Badge](https://img.shields.io/badge/Critical_Thinking-blue) ![Static Badge](https://img.shields.io/badge/Problem_Solving-orange) ![Static Badge](https://img.shields.io/badge/Team_Work-black) ![Static Badge](https://img.shields.io/badge/Time_Management-yellow)
+![Static Badge](https://img.shields.io/badge/curiosity-purple) ![Static Badge](https://img.shields.io/badge/autonomous-green)
 
 ## Contacts
 Vous pouvez me contacter via les canaux suivants :
