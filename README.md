@@ -29,9 +29,9 @@ Vous pouvez me contacter via les canaux suivants :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-yapo/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cpascal2) 
 </p>
-<br clear="left"/>
-<br clear="left"/>
 
+
+## 💻 Statistiques
 <img alt= "my stats" align ="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=pascal-20&theme=cobalt"/>
 <img alt = "top lang" align ="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal-20&layout=compact&theme=cobalt"/>
 
